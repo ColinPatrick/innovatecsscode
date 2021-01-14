@@ -1,0 +1,112 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #dddddd;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  cursor:pointer;
+  font-weight: 600;
+  color: #f5f4f4;
+}
+
+h2, p, .readme-wrapper {
+  text-align: center;
+}
+
+span {
+  color: red;
+  font-weight: 600;
+}
+
+h1 {
+  color: red;
+}
+
+ul {
+  color: white;
+}
+
+.star {
+  color: blue;
+}
+
+.original {
+  color: blue;
+}
+
+.additional {
+  color: green;
+}
+
+.boxes {
+  display: block;
+  width: 30em;
+  margin: 25px;
+  border: 2px solid black;
+}
+
+.image {
+  position: relative;
+  top: 50px;
+  left: 70px;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: green;
+}
+
+.lists {
+  border: 2px solid black;
+}
+
+#wars {
+  color: red;
+}
+
+#show1 {
+  color: yellow;
+}
+
+#show2 {
+  color: purple;
+}
+
+#show3 {
+  color: orange;
+}
+
+#show4 {
+  color: black;
+}
+
+#show5 {
+  color: white;
+}
+
+#box1 {
+  background-color: #374045;
+  height: 624px;
+  width: 480px;
+}
+
+#box2 {
+  background-color: #d89216;
+  height: 624px;
+  width: 480px;
+}
+
+#box3 {
+  background-color: #bbbbbb;
+  height: 635px;
+  width: 480px;
+}
+
+#box4 {
+  background-color: #cbaf87;
+  height: 624px;
+  width: 480px;
+}
